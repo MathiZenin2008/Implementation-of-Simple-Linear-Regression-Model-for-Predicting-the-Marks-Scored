@@ -81,6 +81,7 @@ print("\nPredictions for new hours", new_hours.flatten(), "=>", np.round(pred_ne
 ## Output:
 <img width="1111" height="577" alt="image" src="https://github.com/user-attachments/assets/e8c7bb3e-1430-4e5e-9a1c-2fb4a87c9b9e" />
 
+<img width="832" height="512" alt="image" src="https://github.com/user-attachments/assets/2a382f9e-95dd-47db-a0f6-10ce25eee6d2" />
 
 
 ## Result:
